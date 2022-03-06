@@ -1,4 +1,4 @@
-# Repos-Associated-with-Chem
+# Repos Associated with Chem
 
 Here are some repositories associated with chemistry.
 
@@ -18,3 +18,7 @@ Here are some repositories associated with chemistry.
 ## Editor Extensions
 
 - [Gaussian Input File Support for VSCode](https://github.com/mizu-bai/VSCode-Gaussian-Input-File-Support)
+
+## Notes
+
+- [Structural Chemistry Notes](https://github.com/mizu-bai/Structural-Chemistry-Notes)
