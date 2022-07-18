@@ -11,8 +11,6 @@ Here are some repositories associated with chemistry.
 
 **For some softwares were released with license, they will not be add into docker images.**
 
-- [GaussView in Docker](https://github.com/mizu-bai/GaussView-in-Docker)
-- [Gaussian in Docker](https://github.com/mizu-bai/Gaussian-in-Docker)
 - [Multiwfn in Docker](https://github.com/mizu-bai/Multiwfn-in-Docker)
 
 ## Editor Extensions
@@ -22,3 +20,4 @@ Here are some repositories associated with chemistry.
 ## Notes
 
 - [Structural Chemistry Notes](https://github.com/mizu-bai/Structural-Chemistry-Notes)
+- [Learn-RDKit](https://github.com/mizu-bai/Learn-RDKit)
